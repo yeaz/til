@@ -8,3 +8,4 @@ I hope to form a habit of learning something each day and pushing the informatio
 
 ## Machine Learning
 - [Definition of Machine Learning](machine_learning/definition_of_machine_learning.md)
+- [Normal Equation](machine_learning/normal_equation.md)
